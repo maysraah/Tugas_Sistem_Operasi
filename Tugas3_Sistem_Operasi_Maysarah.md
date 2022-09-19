@@ -10,7 +10,7 @@ Sebuah sistem operasi dapat dibagi menjadi beberapa komponen. Sekurangnya ada em
 - Manajemen Proses
 - Manajemen Memori
 - Manajemen Sistem Berkas
-- Manajemen Masukan / Keluaran
+- Manajemen Masukan/Keluaran
 
 Selain keempat komponen diatas, Avi Sillberchatz dkk menambahkan beberapa komponen seperti:
 
