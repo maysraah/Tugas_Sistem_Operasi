@@ -104,8 +104,44 @@ Setelah itu akan muncul tampilan seperti gambar dibawah, kita perlu memahami beb
 <p align="justify">
 Setelahnya kita bisa menyimpan program yang sudah dibuat, lalu program bisa dijalankan.</p>
 
-2. 
+2. Meng-eksekusi Program dengan Windows Run
 
+<p align="justify">
+Kita bisa menggunakan Windows+R untuk menjalankan suatu program, seperti gambar di bawah ini kita akan menjalankan program untuk mengetik/menulis</p>
+
+<p align="center"><img src="img_tugas3/img19.png"></p>
+
+Setelah itu klik ENTER/OK.
+
+<p align="center"><img src="img_tugas3/img20.png"></p>
+
+Program sudah bisa kita jalankan.<br><br>
+
+3. Mengunci perangkat (laptop/komputer)
+
+Kita bisa mengunci perangkat dengan cara mengaturnya di settings, pertama buka terlebih dahulu settings
+
+<p align="center"><img src="img_tugas3/img21.png"></p>
+
+Selanjutnya, klik accounts.
+
+<p align="center"><img src="img_tugas3/img22.png"></p>
+
+<p align="justify">
+Kemudian, klik Sign-in options, disini kita bisa memilih ingin fitur lock akun seperti apa.</p>
+
+<p align="center"><img src="img_tugas3/img23.png"></p>
+
+Disini saya setting menggunakan password.
+
+<p align="center"><img src="img_tugas3/img24.png"></p>
+
+<p align="center"><img src="img_tugas3/img25.png"></p>
+
+<p align="center"><img src="img_tugas3/img26.png"></p>
+
+<p align="justify">
+Setelah itu akan ada settings untuk foto profil, kemudian klik finish. Password sudah terpasang.</p><br><br>
 
 
 ### **SYSTEM CALL**
