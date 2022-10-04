@@ -1,7 +1,7 @@
 Nama: Maysarah<br>
 NIM : 2110131120006<br><br>
 
-<h1 align="center"><b>STRUKTUR SISTEM OPERASI</b></h1>
+<h1 align="center"><b>STRUKTUR SISTEM OPERASI</b></h1> 
 
 <p align="justify">
 Sistem operasi modern adalah suatu sistem yang besar dan kompleks. Dan tentu saja proses mendesain
